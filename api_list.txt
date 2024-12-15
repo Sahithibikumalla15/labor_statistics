@@ -1,0 +1,9 @@
+{"Civilian Labor Force (Seasonally Adjusted)" :  "LNS11000000",
+"Civilian Employment (Seasonally Adjusted)" : "LNS12000000",
+"Civilian Unemployment (Seasonally Adjusted)" : "LNS13000000",
+"Unemployment Rate (Seasonally Adjusted)" : "LNS14000000",
+"Total Nonfarm Employment - Seasonally Adjusted" : "CES0000000001",
+"Total Private Average Weekly Hours of All Employees - Seasonally Adjusted" : "CES0500000002",
+"Total Private Average Weekly Hours of Prod. and Nonsup. Employees - Seasonally Adjusted" : "CES0500000007",
+"Total Private Average Hourly Earnings of All Employees - Seasonally Adjusted" : "CES0500000003",
+"Total Private Average Hourly Earnings of Prod. and Nonsup. Employees - Seasonally Adjusted" : "CES0500000008"}
