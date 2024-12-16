@@ -50,6 +50,7 @@ class LaborData():
         
         headers = {'Content-type': 'application/json'}
         data = json.dumps({"seriesid": list(LaborData.api_details.values()),
+                        "registrationkey":"a6c97b6640ab45489a842ab39eb27c7f",
         "startyear":str(year_before_twelve_months),"endyear":current_year})
         p = requests.post('https://api.bls.gov/publicAPI/v2/timeseries/data/', data=data, headers=headers)
 
@@ -78,7 +79,7 @@ class LaborData():
 
         # api call        
         headers = {'Content-type': 'application/json'}
-        data = json.dumps({"seriesid": list(LaborData.api_details.values()),'latest':True})
+        data = json.dumps({"seriesid": list(LaborData.api_details.values()),'latest':True,"registrationkey":"a6c97b6640ab45489a842ab39eb27c7f"})
         p = requests.post('https://api.bls.gov/publicAPI/v2/timeseries/data/', data=data, headers=headers)
 
         json_data = json.loads(p.text)
