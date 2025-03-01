@@ -22,4 +22,5 @@ year,period,periodName,latest,value,footnotes
 2023,M03,March,,33.9,[{}]
 2023,M02,February,,33.9,[{}]
 2023,M01,January,,34.0,[{}]
-2024,M12,December,true,33.7,"[{'code': 'P', 'text': 'preliminary'}]"
+2024,M12,December,True,33.7,"[{'code': 'P', 'text': 'preliminary'}]"
+2025,M01,January,true,33.5,"[{'code': 'P', 'text': 'preliminary'}]"
