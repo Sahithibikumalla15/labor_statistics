@@ -23,4 +23,5 @@ year,period,periodName,latest,value,footnotes
 2023,M02,February,,5962,[{}]
 2023,M01,January,,5719,[{}]
 2024,M12,December,True,6886,[{}]
-2025,M01,January,true,6849,[{}]
+2025,M01,January,True,6849,[{}]
+2025,M02,February,true,7052,[{}]
