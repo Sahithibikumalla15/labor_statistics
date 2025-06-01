@@ -25,4 +25,5 @@ year,period,periodName,latest,value,footnotes
 2024,M12,December,True,34.3,"[{'code': 'P', 'text': 'preliminary'}]"
 2025,M01,January,True,34.1,"[{'code': 'P', 'text': 'preliminary'}]"
 2025,M02,February,True,34.1,"[{'code': 'P', 'text': 'preliminary'}]"
-2025,M03,March,true,34.2,"[{'code': 'P', 'text': 'preliminary'}]"
+2025,M03,March,True,34.2,"[{'code': 'P', 'text': 'preliminary'}]"
+2025,M04,April,true,34.3,"[{'code': 'P', 'text': 'preliminary'}]"
