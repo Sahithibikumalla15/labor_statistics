@@ -26,4 +26,5 @@ year,period,periodName,latest,value,footnotes
 2025,M01,January,True,170744,"[{'code': '1', 'text': 'Data affected by changes in population controls.'}]"
 2025,M02,February,True,170359,[{}]
 2025,M03,March,True,170591,[{}]
-2025,M04,April,true,171109,[{}]
+2025,M04,April,True,171109,[{}]
+2025,M05,May,true,170510,[{}]
