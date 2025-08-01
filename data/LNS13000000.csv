@@ -27,4 +27,5 @@ year,period,periodName,latest,value,footnotes
 2025,M02,February,True,7052,[{}]
 2025,M03,March,True,7083,[{}]
 2025,M04,April,True,7165,[{}]
-2025,M05,May,true,7237,[{}]
+2025,M05,May,True,7237,[{}]
+2025,M06,June,true,7015,[{}]
