@@ -28,4 +28,5 @@ year,period,periodName,latest,value,footnotes
 2025,M03,March,True,30.96,"[{'code': 'P', 'text': 'preliminary'}]"
 2025,M04,April,True,31.06,"[{'code': 'P', 'text': 'preliminary'}]"
 2025,M05,May,True,31.18,"[{'code': 'P', 'text': 'preliminary'}]"
-2025,M06,June,true,31.24,"[{'code': 'P', 'text': 'preliminary'}]"
+2025,M06,June,True,31.24,"[{'code': 'P', 'text': 'preliminary'}]"
+2025,M07,July,true,31.34,"[{'code': 'P', 'text': 'preliminary'}]"
